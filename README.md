@@ -53,6 +53,16 @@ This repo is connected to my broader work in:
 * AI safety and alignment
 * qualitative research methods
 
+Related Projects
+
+* Third-Space Cognition Dataset — Exploratory qualitative dataset of coded human-AI interaction observations connected to the same research program.
+* Affective Agent Prototype — Early exploratory Python prototype modeling affective state, symbolic interaction, memory logging, and autonomous behavior loops in an AI-inspired agent.
+
+Related Paper
+
+Third-Space Cognition: Interaction-Level Dynamics in Sustained Human-AI Coupling
+Zenodo DOI: 10.5281/zenodo.18679265
+
 Related Repository
 
 Third-Space Cognition Dataset:
